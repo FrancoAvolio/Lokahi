@@ -4,7 +4,11 @@ module.exports = {
   theme: {
     extend: {
       letterSpacing: {
-        wider: "6.75px",
+        wider: "6.72px",
+        wide: "6.4px",
+      },
+      fontFamily: {
+        quicksand: ["Quicksand", "sans-serif"],
       },
     },
   },

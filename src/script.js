@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
   const slider = document.getElementById("slider");
   const nextButton = document.getElementById("next");
   const prevButton = document.getElementById("prev");
-
+zx
   let index = 0;
   const imagesPerView = 4;
   const imageWidth = 297;
